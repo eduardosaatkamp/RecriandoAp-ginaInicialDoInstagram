@@ -1,4 +1,6 @@
-Esse é o repositório da aula de Flexbox, na qual foi feito a interface de login do Instagram! 
+Prévia do Projeto <br>
+<img width="960" alt="Interface instagram" src="https://raw.githubusercontent.com/eduardosaatkamp/RecriandoAp-ginaInicialDoInstagram/main/previewInstagram.PNG"> <br>
+Esse repositório faz parte de uma aula de Flexbox, na qual é feito a interface de login do Instagram! 
 
 ### Os requisitos são:
 
